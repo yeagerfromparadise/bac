@@ -1,0 +1,12 @@
+body{
+    font-size: xx-large;
+    background-color: rgb(55, 243, 202);
+    color: rgb(4, 90, 4);
+}
+
+div{
+    margin-left: 120px;
+}
+pre{
+    font-size: 16px;
+}
